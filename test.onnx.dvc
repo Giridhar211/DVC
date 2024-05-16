@@ -1,0 +1,5 @@
+outs:
+- md5: 620f06ae851276be01dffde7d92b284a
+  size: 12238001
+  hash: md5
+  path: test.onnx
